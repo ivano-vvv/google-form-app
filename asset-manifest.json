@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-form-app/static/css/main.48db4a5a.chunk.css",
+    "main.js": "/google-form-app/static/js/main.922bcad1.chunk.js",
+    "main.js.map": "/google-form-app/static/js/main.922bcad1.chunk.js.map",
+    "runtime-main.js": "/google-form-app/static/js/runtime-main.24b3a85a.js",
+    "runtime-main.js.map": "/google-form-app/static/js/runtime-main.24b3a85a.js.map",
+    "static/js/2.548811f8.chunk.js": "/google-form-app/static/js/2.548811f8.chunk.js",
+    "static/js/2.548811f8.chunk.js.map": "/google-form-app/static/js/2.548811f8.chunk.js.map",
+    "static/js/3.b26bf579.chunk.js": "/google-form-app/static/js/3.b26bf579.chunk.js",
+    "static/js/3.b26bf579.chunk.js.map": "/google-form-app/static/js/3.b26bf579.chunk.js.map",
+    "index.html": "/google-form-app/index.html",
+    "static/css/main.48db4a5a.chunk.css.map": "/google-form-app/static/css/main.48db4a5a.chunk.css.map",
+    "static/js/2.548811f8.chunk.js.LICENSE.txt": "/google-form-app/static/js/2.548811f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24b3a85a.js",
+    "static/js/2.548811f8.chunk.js",
+    "static/css/main.48db4a5a.chunk.css",
+    "static/js/main.922bcad1.chunk.js"
+  ]
+}
